@@ -1,3 +1,3 @@
 # hello-world
-# YEAH YOU KNOW HOW WE DO MUTHA FUCKING GIT-IN' SHIT BRANCHIN, COMMITING...SHIIIIT WE BE GITHUBBIN SON.
-hell-world-github
+Hello World
+hello-world-github
